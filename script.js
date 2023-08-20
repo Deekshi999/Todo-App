@@ -9,7 +9,6 @@ if (todos) {
     addTodo(todo);
   });
 }
-
 form.addEventListener("submit", (e) => {
   e.preventDefault();
 
